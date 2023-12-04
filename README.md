@@ -3,5 +3,8 @@
 
 ## ----------------------------------------------
 
-## Please read instructions for installation
 ## Proszę czytać instrukcje do instalacji
+
+## ----------------------------------------------
+
+## Wersja modpacka: 1.0.0
