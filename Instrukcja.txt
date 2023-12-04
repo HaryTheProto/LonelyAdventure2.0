@@ -1,0 +1,27 @@
+--------------------------------------------------------------------------------
+
+		 CurseForge
+
+Jak zainstalować paczkę na CurseForge:
+
+1. Pobierz plik LA 2.0-Vx.x.x.zip do jakiegoś dostępnego folderu np. Pulpit
+2. W CurseForge znajdź przycisk Create Custom Profile i po wejściu do niego naciśnij podkreślony napis import
+3. Po wyświetleniu okna wyboru pliku wybierz plik LA 2.0-Vx.x.x.zip i zatwierdź
+4. Paczka powinna zostać zaimportowana do CurseForge
+
+--------------------------------------------------------------------------------
+
+	Non-Premium / Manual Install
+
+Jak zainstalować paczkę manualnie:
+
+1. Upewnij się że masz zainstalowaną wersję minecrafta Vanilla 1.20.1
+2. Wypakuj plik forge-1.20.1-installer.jar do jakiegoś dostępnego folderu np. Pulpit
+3. Uruchom plik forge-1.20.1-installer.jar i zainstaluj klijenta forge
+4. Wypakuj foldery mods oraz resourcepacks z folderu LA2.0OfflineInstall do jakiegoś dostępnego folderu np. Pulpit
+5. Naciśnij Win+R i wpisz %appdata%
+6. Znajdź w oknie eksploratora który się wyświetli folder o nazwie ".minecraft"
+7. Po wejściu do folderu .minecraft skopiuj całe foldery resourcepacks oraz mods z pulpitu lub innego wybranego folderu do folderu ".minecraft"
+8. Mody oraz resource packi powinny zostać zainstalowane (Pamiętaj żeby wybrać dobrą wersję minecrafta podczas uruchamiania)
+
+--------------------------------------------------------------------------------
